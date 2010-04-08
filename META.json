@@ -1,10 +1,13 @@
 {
-   "generated_by" : "Dist::Zilla version 1.100711",
+   "resources" : {
+      "repository" : "http://github.com/keedi/WebService-Yes24"
+   },
    "meta-spec" : {
       "version" : 1.4,
       "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
    },
-   "version" : "0.100890",
+   "generated_by" : "Dist::Zilla version 1.100711",
+   "version" : "0.100980",
    "name" : "WebService-Yes24",
    "author" : [
       "Keedi Kim - \u00ea\u00b9\u0080\u00eb\u008f\u0084\u00ed\u0098\u0095 <keedi at cpan.org>"

@@ -24,4 +24,6 @@ requires:
   common::sense: 0
   namespace::autoclean: 0
   perl: 5.010
-version: 0.100890
+resources:
+  repository: http://github.com/keedi/WebService-Yes24
+version: 0.100980
